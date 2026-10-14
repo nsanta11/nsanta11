@@ -3,6 +3,8 @@ Full-Stack Web Developer | WordPress Developer | Creative Marketing
 
 I'm a Phoenix-based web developer specializing in modern web applications, custom WordPress development, accessible digital experiences, and marketing analytics integrations.
 
+🌵  Phoenix, AZ   |   🌐  [nicolesantarsiero.com](https://nicolesantarsiero.com)
+
 I enjoy building high-performance, engaging websites that are accessible to everyone, and integrating analytics and data solutions to help businesses make informed decisions. I bring a combination of technical development experience and an MBA in Marketing to projects that help bridge technology and business goals.
 
 💻 Building with React, Next.js, TypeScript, and WordPress
@@ -13,19 +15,19 @@ I enjoy building high-performance, engaging websites that are accessible to ever
 🌎 English (native) and Spanish (conversational)
 🛠️ Technologies & Tools
 
-Languages & Frameworks JavaScript · TypeScript · HTML5 · CSS3 · PHP · Node.js · React · Next.js · Tailwind CSS · Vite
+## 🛠️ Technical Skills
 
-WordPress Development WordPress · Advanced Custom Fields (ACF) · Gutenberg Block Development · WP-CLI
-
-Databases & Data PostgreSQL · MySQL · Microsoft SQL Server · Google BigQuery · Data Pipelines
-
-Cloud & Development Tools Git · GitHub · Azure DevOps · Netlify · Firebase · Google Cloud Functions
-
-Accessibility WCAG · Semantic HTML · Keyboard Accessibility · Screen Reader Compatibility · Accessibility Testing
-
-Marketing Technology & Analytics Google Analytics 4 · Google Tag Manager · Conversion Tracking · Looker Studio · Marketing Data Integrations
-
-AI-Assisted Development OpenAI Codex · Claude Code · Cursor
+| Category | Technologies & Tools |
+|---|---|
+| **Web Development** | JavaScript, TypeScript, HTML5, CSS3, PHP, Node.js, React, Next.js, Vite, Tailwind CSS, REST APIs |
+| **WordPress Development** | WordPress, Advanced Custom Fields (ACF), Gutenberg/Block Development, WP-CLI, WP Engine |
+| **Web Accessibility** | WCAG, Semantic HTML, Keyboard Navigation, Screen Reader Compatibility, Accessibility Testing |
+| **Databases & Data Engineering** | PostgreSQL, MySQL, Microsoft SQL Server (MSSQL), Google BigQuery, Data Pipelines |
+| **AI-Assisted Development** | OpenAI Codex, Anthropic Claude Code, Cursor |
+| **Cloud & Development Tools** | Git, GitHub, Azure DevOps, Netlify, Firebase, Google Cloud Functions |
+| **Conversion Tracking & Tag Implementation** | Google Analytics 4 (GA4), Google Tag Manager, Google Ads Conversion Tracking |
+| **Marketing Analytics & Data Integration** | The Trade Desk, Looker Studio, Funnel.io, Supermetrics, LeadsBridge, Zapier |
+| **Design & Project Management** | Figma, Adobe Photoshop, Jira, Basecamp, Asana, Webvantage |
 
 💼 Professional Experience
 Digital Developer — R&R Partners: Building websites and custom WordPress experiences for enterprise clients.
@@ -42,6 +44,3 @@ When I'm not developing, I enjoy traveling with my pup, live music, DIY projects
 🤝 Let's Connect
 
 I'm always interested in connecting with fellow developers, collaborating on interesting projects, and exploring opportunities to build thoughtful, accessible digital designs and experiences.
-
-LinkedIn: [My LinkedIn](https://linkedin.com/in/nicole-santarsiero-81443752)
-Portfolio: [Visit My Portfolio](https://nicolesantarsiero.com)

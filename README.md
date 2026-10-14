@@ -23,4 +23,4 @@ Full-Stack Web Developer | WordPress Developer | Creative Marketing | MBA | [nic
 When I'm not developing, I enjoy traveling with my pup, live music, DIY projects, language exchanges, and being outside.
 <br>
 <br>
-🤝 Let's Connect! [LinkedIn](linkedin.com/in/nicole-santarsiero-81443752)
+🤝 Let's Connect! [LinkedIn](https://linkedin.com/in/nicole-santarsiero-81443752)

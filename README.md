@@ -1,3 +1,4 @@
+<br>
 Hi there, I'm Nicole 👋
 <br>
 Full-Stack Web Developer | WordPress Developer | Creative Marketing | MBA | [nicolesantarsiero.com](https://nicolesantarsiero.com)
@@ -7,7 +8,6 @@ Full-Stack Web Developer | WordPress Developer | Creative Marketing | MBA | [nic
 
 ## 🛠️ Technical Skills
 
-| | |
 |---|---|
 | **Web Development** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
 | **WordPress Development** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![ACF](https://img.shields.io/badge/ACF-00A0D2?style=flat) ![Gutenberg](https://img.shields.io/badge/Gutenberg_Blocks-5C2D91?style=flat) ![WP--CLI](https://img.shields.io/badge/WP--CLI-23282D?style=flat) |
@@ -21,5 +21,5 @@ Full-Stack Web Developer | WordPress Developer | Creative Marketing | MBA | [nic
 <br>
 When I'm not developing, I enjoy traveling with my pup, live music, DIY projects, language exchanges, and being outside.
 <br>
-
+<br>
 🤝 Let's Connect! [LinkedIn](linkedin.com/in/nicole-santarsiero-81443752)

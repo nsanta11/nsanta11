@@ -1,10 +1,10 @@
-Hi there, I'm Nicole 👋
-<br>
-<br>
-Full-Stack Web Developer | WordPress Developer | Creative Marketing | MBA | [nicolesantarsiero.com](https://nicolesantarsiero.com)
+## Hi there, I'm Nicole 👋
+
+Full-Stack Web Developer | Creative Marketing | MBA | [nicolesantarsiero.com](https://nicolesantarsiero.com)
 <br>
 
 🌵 I'm a Phoenix-based web developer specializing in modern web applications, with an emphasis on creativity, accessibility, and web analytics integration.
+
 
 ## 🛠️ Technical Skills
 
@@ -19,9 +19,11 @@ Full-Stack Web Developer | WordPress Developer | Creative Marketing | MBA | [nic
 | **Conversion Tracking & Analytics** | ![GA4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat&logo=googleanalytics&logoColor=white) ![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat&logo=googletagmanager&logoColor=white) ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat&logo=googleads&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white) |
 | **Design & Project Management** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white) |
 
-<br>
+
 When I'm not developing, I enjoy traveling with my pup, live music, DIY projects, language exchanges, and being outside.
-<br>
-<br>
+
+
 🤝 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/nicole-santarsiero-81443752/)
+
+🌐 [LinkedIn](https://www.linkedin.com/in/nicole-santarsiero-81443752/)
+
